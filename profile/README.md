@@ -23,6 +23,8 @@ The repositories below are public **IoT (*Internet of Things*)** solutions:
 
 The repositories below are public **Embedded Systems** solutions:
 
+- [Power Monitor](https://github.com/AgroTechLab-IFSC/power_monitor) - The Power Monitor aims to monitor the energy consumption of IoT devices.
+
 ## Artificial Intelligence
 
 The repositories below are public **AI (*Artificial Intelligence*)** solutions:
