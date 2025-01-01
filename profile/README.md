@@ -24,6 +24,7 @@ The repositories below are public **IoT (*Internet of Things*)** solutions:
 The repositories below are public **Embedded Systems** solutions:
 
 - [Power Monitor](https://github.com/AgroTechLab-IFSC/power_monitor) - The Power Monitor aims to monitor the energy consumption of IoT devices.
+- [Benchmark Mega2560](https://github.com/AgroTechLab-IFSC/benchmark_mega2560) - A benchmark of Arduino MEGA 2560 power consumption in different operating modes.
 
 ## Artificial Intelligence
 
