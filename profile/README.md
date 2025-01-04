@@ -30,3 +30,5 @@ The repositories below are public **Embedded Systems** solutions:
 ## Artificial Intelligence
 
 The repositories below are public **AI (*Artificial Intelligence*)** solutions:
+
+- [CNN Trainer (Local)](https://github.com/AgroTechLab-IFSC/cnn_trainer_local) - A CNN (*Convolutional Neural Network*) Trainer to be used at local machines (multicore compatible).
