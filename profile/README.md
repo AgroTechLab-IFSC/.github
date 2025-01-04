@@ -15,20 +15,32 @@ Some of our repositories are **public** and allow the developer community to par
 
 ## Internet of Things
 
-The repositories below are public **IoT (*Internet of Things*)** solutions:
+The repositories below are our **IoT (*Internet of Things*)** solutions:
+
+### Public Repositories
 
 - [pyIoTDevSim](https://github.com/AgroTechLab-IFSC/pyiotdevsim) - An IoT device simulator that uses a real LoRaWAN® module (connected to serial port) to sent simulated IoT data to TTN® (The Things Network) infrastructure.
 
+### Private Repositories
+
 ## Embedded Systems
 
-The repositories below are public **Embedded Systems** solutions:
+The repositories below are our **Embedded Systems** solutions:
+
+### Public Repositories
 
 - [Power Monitor](https://github.com/AgroTechLab-IFSC/power_monitor) - The Power Monitor aims to monitor the energy consumption of IoT devices.
 - [Benchmark Mega2560](https://github.com/AgroTechLab-IFSC/benchmark_mega2560) - A benchmark of Arduino® Mega 2560 power consumption in different operating modes.
 - [Benchmark Pro Mini](https://github.com/AgroTechLab-IFSC/benchmark_pro_mini) - A benchmark of Arduino® Pro Mini power consumption in different operating modes.
 
+### Private Repositories
+
 ## Artificial Intelligence
 
-The repositories below are public **AI (*Artificial Intelligence*)** solutions:
+The repositories below are our **AI (*Artificial Intelligence*)** solutions:
+
+### Public Repositoreis
+
+### Private Repositories
 
 - [CNN Trainer (Local)](https://github.com/AgroTechLab-IFSC/cnn_trainer_local) - A CNN (*Convolutional Neural Network*) Trainer to be used at local machines (multicore compatible).
