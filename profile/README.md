@@ -39,7 +39,7 @@ The repositories below are our **Embedded Systems** solutions:
 
 The repositories below are our **AI (*Artificial Intelligence*)** solutions:
 
-### Public Repositoreis
+### Public Repositories
 
 ### Private Repositories
 
