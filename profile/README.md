@@ -44,3 +44,4 @@ The repositories below are our **AI (*Artificial Intelligence*)** solutions:
 ### Private Repositories
 
 - [CNN Trainer (Local)](https://github.com/AgroTechLab-IFSC/cnn_trainer_local) - A CNN (*Convolutional Neural Network*) Trainer to be used at local machines (multicore compatible).
+- [CNN Trainer (Distributed)](https://github.com/AgroTechLab-IFSC/cnn_trainer_distributed) - A CNN (*Convolutional Neural Network*) Trainer to be used at distributed system (distributed and multicore compatible).
