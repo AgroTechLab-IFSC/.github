@@ -40,10 +40,10 @@ The repositories below are our **Embedded Systems** solutions:
 The repositories below are our **HW (*Hardware*)** solutions:
 
 ### Public Repositories
-  
-### Private Repositories
 
 - [ATL100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) - ATL100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
+
+### Private Repositories
 
 ## Artificial Intelligence
 
