@@ -35,6 +35,16 @@ The repositories below are our **Embedded Systems** solutions:
 
 ### Private Repositories
 
+## Hardware
+
+The repositories below are our **HW (*Hardware*)** solutions:
+
+### Public Repositories
+  
+### Private Repositories
+
+- [ATL100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) - ATL100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
+
 ## Artificial Intelligence
 
 The repositories below are our **AI (*Artificial Intelligence*)** solutions:
@@ -46,3 +56,13 @@ The repositories below are our **AI (*Artificial Intelligence*)** solutions:
 ### Private Repositories
 
 - [CNN Trainer (Distributed)](https://github.com/AgroTechLab-IFSC/cnn_trainer_distributed) - A CNN (*Convolutional Neural Network*) Trainer to be used at distributed system (distributed and multicore compatible).
+
+## Mobile Applications
+
+The repositories below are our **App (*Mobile Applications*)** solutions:
+
+### Public Repositories
+  
+### Private Repositories
+
+- [AgroTechLab App](https://github.com/AgroTechLab-IFSC/agrotechlab_app) - A mobile application to grant access to our systems.
