@@ -32,6 +32,7 @@ The repositories below are our **Embedded Systems** solutions:
 - [Power Monitor](https://github.com/AgroTechLab-IFSC/power_monitor) - The Power Monitor aims to monitor the energy consumption of IoT devices.
 - [Benchmark Mega2560](https://github.com/AgroTechLab-IFSC/benchmark_mega2560) - A benchmark of Arduino® Mega 2560 power consumption in different operating modes.
 - [Benchmark Pro Mini](https://github.com/AgroTechLab-IFSC/benchmark_pro_mini) - A benchmark of Arduino® Pro Mini power consumption in different operating modes.
+- [ATL-100 FW](https://github.com/AgroTechLab-IFSC/atl100_fw) - ATL-100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
 
 ### Private Repositories
 
@@ -41,7 +42,7 @@ The repositories below are our **HW (*Hardware*)** solutions:
 
 ### Public Repositories
 
-- [ATL100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) - ATL100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
+- [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) - ATL-100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
 
 ### Private Repositories
 
