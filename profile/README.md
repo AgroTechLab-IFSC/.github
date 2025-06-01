@@ -12,6 +12,20 @@
 
 Some of our repositories are **public** and allow the developer community to participate (through a **Pull Request**). These public repositories can be used (including for **commercial purposes**) by people, companies and institutions, as long as they accept the license associated with it.
 
+## Hardware
+
+The repositories below are our ***Hardware*** solutions:
+
+| Repository | Type | Description | Information |
+| :--------: | :--: | :---------- | :---------- |
+| [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) | public | a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban) | XXX |
+
+### Public Repositories
+
+-  - ATL-100 is .
+
+### Private Repositories
+
 ## Internet of Things
 
 The repositories below are our **IoT (*Internet of Things*)** solutions:
@@ -32,16 +46,6 @@ The repositories below are our **Embedded Systems** solutions:
 - [Benchmark Mega2560](https://github.com/AgroTechLab-IFSC/benchmark_mega2560) - A benchmark of Arduino® Mega 2560 power consumption in different operating modes.
 - [Benchmark Pro Mini](https://github.com/AgroTechLab-IFSC/benchmark_pro_mini) - A benchmark of Arduino® Pro Mini power consumption in different operating modes.
 - [ATL-100 FW](https://github.com/AgroTechLab-IFSC/atl100_fw) - ATL-100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
-
-### Private Repositories
-
-## Hardware
-
-The repositories below are our **HW (*Hardware*)** solutions:
-
-### Public Repositories
-
-- [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) - ATL-100 is a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban).
 
 ### Private Repositories
 
