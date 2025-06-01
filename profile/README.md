@@ -1,9 +1,8 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,python,dart,java,arduino,bsd,debian,ubuntu,vscode,flutter,androidstudio,git&theme=dark)](https://skillicons.dev)<br>
-<a href="https://trackgit.com"><img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/ltmtj51yoc90tzlrvbtl" alt="trackgit-views" /></a>
 ![GitHub followers](https://img.shields.io/github/followers/agrotechlab-ifsc)
 <br>
 
-# AgroTechLab<br>(*Technology Development Laboratory for Agribusiness*)
+# AgroTechLab<br>(*Agribusiness Technology Development Laboratory*)
 
 😁 The [AgroTechLab](https://agrotechlab.lages.ifsc.edu.br) is a multidisciplinary laboratory (computer science, agronomy and business administration) that develop technologies for **agribusiness** and **smart cities**.<br>
 🏫 It is part of [IFSC (*Federal Instititute of Santa Catarina*)](https://www.ifsc.edu.br) and is located in the city of Lages, state of Santa Catarina, in southern Brazil.<br>
