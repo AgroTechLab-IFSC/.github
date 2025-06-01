@@ -18,7 +18,7 @@ The repositories below are our ***Hardware*** solutions:
 
 | Repository | Type | Description | Information |
 | :--------: | :--: | :---------- | :---------- |
-| [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) | public | a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban) | XXX |
+| [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) | public | a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban) | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/atl100_hw) |
 
 ### Public Repositories
 
