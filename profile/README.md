@@ -18,7 +18,8 @@ The repositories below are our ***Hardware*** solutions:
 
 | Repository | Type | Description | Information |
 | :--------: | :--: | :---------- | :---------- |
-| [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) | public | a multiparametric station developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban) | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/atl100_hw)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/atl100_hw)|
+| (Breakout Heltec WiFi LoRa 32)[https://github.com/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32] | public | A breakout board for Heltec WiFi LoRa 32 (V2 or V3) | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)
+| [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) | public | A multiparametric station (PTH project) developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban) | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/atl100_hw)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/atl100_hw)|
 
 ### Public Repositories
 
