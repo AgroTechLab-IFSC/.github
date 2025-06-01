@@ -47,7 +47,7 @@ The repositories below are our **AI (*Artificial Intelligence*)** solutions:
 | Repository | Type | Description | Information |
 | :--------: | :--: | :---------- | :---------- |
 | [CNN Trainer (Local)](https://github.com/AgroTechLab-IFSC/cnn_trainer_local) | public | A CNN (*Convolutional Neural Network*) Trainer to be used at local machines (multicore compatible). | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/cnn_trainer_local)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/cnn_trainer_local) |
-| [CNN Trainer (Distributed)](https://github.com/AgroTechLab-IFSC/cnn_trainer_distributed) | public | A CNN (*Convolutional Neural Network*) Trainer to be used at distributed system (distributed and multicore compatible). | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/cnn_trainer_distributed)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/cnn_trainer_distributed) |
+| [CNN Trainer (Distributed)](https://github.com/AgroTechLab-IFSC/cnn_trainer_distributed) | private | A CNN (*Convolutional Neural Network*) Trainer to be used at distributed system (distributed and multicore compatible). |  |
 
 ## Mobile Applications
 
@@ -55,4 +55,4 @@ The repositories below are our **App (*Mobile Applications*)** solutions:
 
 | Repository | Type | Description | Information |
 | :--------: | :--: | :---------- | :---------- |
-| [AgroTechLab App](https://github.com/AgroTechLab-IFSC/agrotechlab_app) | private | A mobile application to grant access to our systems. | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/agrotechlab_app)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/agrotechlab_app) |
+| [AgroTechLab App](https://github.com/AgroTechLab-IFSC/agrotechlab_app) | private | A mobile application to grant access to our systems. |  |
