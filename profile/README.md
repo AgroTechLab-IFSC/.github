@@ -4,21 +4,23 @@
 
 # AgroTechLab<br>(*Agribusiness Technology Development Laboratory*)
 
-😁 The [AgroTechLab](https://agrotechlab.lages.ifsc.edu.br) is a multidisciplinary laboratory (computer science, agronomy and business administration) that develop technologies for **agribusiness** and **smart cities**.<br>
+😁 The [AgroTechLab](https://agrotechlab.lages.ifsc.edu.br) is a multidisciplinary laboratory (computer science, agronomy, biology and business administration) that develops technologies for **agribusiness** and **smart cities**.<br>
 🏫 It is part of [IFSC (*Federal Instititute of Santa Catarina*)](https://www.ifsc.edu.br) and is located in the city of Lages, state of Santa Catarina, in southern Brazil.<br>
-🌐 The laboratory is also responsible for managing the TTN community in the Lages city ([TTN/Lages](https://www.thethingsnetwork.org/community/lages/)).<br><br>
+🌐 The laboratory is also responsible for managing the TTN community in the city of Lages ([TTN/Lages](https://www.thethingsnetwork.org/community/lages/)).<br><br>
 
 ## Use of repositories
 
-Some of our repositories are **public** and allow the developer community to participate (through a **Pull Request**). These public repositories can be used (including for **commercial purposes**) by people, companies and institutions, as long as they accept the license associated with it.
+Some of our repositories are **public** and allow participation from developer community (via **Pull Request**). These public repositories can be used by individuals, companies and institutions, provided they agree to the license associated with them.<br>
+
+**Private** repositories can also be used by individuals, companies, and institutions, but they require prior registration, which can be requested by contacting us via [email](mailto://agrotechlab.lgs@ifsc.edu.br).
+
+Below is a list of the main repositories, their type (public or private), a brief description, and some additional information.
 
 ## Hardware
 
-The repositories below are our **hardware** solutions:
-
 | Repository | Type | Description | Information |
 | :--------: | :--: | :---------- | :---------- |
-| [Breakout Heltec WiFi LoRa 32](https://github.com/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32) | public | A breakout board for Heltec WiFi LoRa 32 (V2 or V3). | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/breakout_heltec_wifi_lora_32)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/breakout_heltec_wifi_lora_32) |
+| [Breakout Heltec WiFi LoRa 32](https://github.com/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32) | public | A breakout board for Heltec WiFi LoRa 32 (V2 or V3). | ![GitHub Release](https://img.shields.io/github/v/release/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32) ![Github release date](https://img.shields.io/github/release-date/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)![GitHub License](https://img.shields.io/github/license/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)![Static Badge](https://img.shields.io/badge/KiCad-v9.0.x-blue)![GitHub commit activity](https://img.shields.io/github/commit-activity/t/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)![Github last commit](https://img.shields.io/github/last-commit/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)![GitHub Issues](https://img.shields.io/github/issues/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32)![GitHub Pull Requests](https://img.shields.io/github/issues-pr/AgroTechLab-IFSC/breakout_heltec_wifi_lora_32) |
 | [ATL-100 HW](https://github.com/AgroTechLab-IFSC/atl100_hw) | public | A multiparametric station (PTH project) developed to be used as a meteorological station, agrometeorological station, hydrological station, aquaculture station, tide gauge station or fire monitoring station (forest or urban). | ![GitHub Release](https://img.shields.io/github/v/release/agrotechlab-ifsc/atl100_hw)<br>![GitHub License](https://img.shields.io/github/license/agrotechlab-ifsc/atl100_hw) |
 
 ## Firmware
@@ -56,3 +58,13 @@ The repositories below are our **App (*Mobile Applications*)** solutions:
 | Repository | Type | Description | Information |
 | :--------: | :--: | :---------- | :---------- |
 | [AgroTechLab App](https://github.com/AgroTechLab-IFSC/agrotechlab_app) | private | A mobile application to grant access to our systems. |  |
+
+<div style="text-align:center;">
+   <br><hr>
+   <p>All rights reserved. &copy; Since 2020.<br>
+   <b><a href="https://agrotechlab.lages.ifsc.edu.br/">AgroTechLab (<i>Agribusiness Technology Development Laboratory</i>)</a></b><br>
+   <b><a href="https://ifsc.edu.br/web/campus-lages">IFSC (<i>Federal Institute of Santa Catarina</i>) - Campus Lages</a></b><br>
+   225 Heitor Vila Lobos St., São Francisco<br>
+   Lages/SC - Brazil<br>
+   88506-400</p>
+</div>
